@@ -13,4 +13,4 @@ Tricia Rivera
 Samantha Rico
 
 ### Flowchart
-[Picture](flowchart.png)
+![Picture](flowchart.png)
